@@ -11,7 +11,7 @@ const johnson: NextPage = () => {
   return (
     <>
     <div>
-        <a href = "\">Hi</a>
+        <p>Hi</p>
     </div>
     </>
   );
